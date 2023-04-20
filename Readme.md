@@ -15,7 +15,11 @@ csv-parser: A library for parsing CSV files so that a JavaScript object can be c
  ```
 Installation.........................................................................
 To run this script, make sure that you have Node.js installed on your system. 
-Clone the repository and install the dependencies using the following command:
+Clone the repository using...........................................................
+```yaml
+git clone https://github.com/1siikaa/exeter-coding-challenge
+```  
+and install the dependencies using the following command...............................
 ``` yaml
 npm install <dependency_name>
 ```
